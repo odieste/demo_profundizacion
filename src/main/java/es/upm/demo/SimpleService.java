@@ -22,7 +22,7 @@ package es.upm.demo;
 public class SimpleService {
     
     public String  helloService(String msg){
-        return "Hello "+ msg;
+        return "Hello "+ msg + " Oscar";
     }
 
 }
